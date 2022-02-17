@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MovieBuddy</string>
+    <string name="page_title">Movie Buff</string>
+    <string name="page_sub_title">Find movie theatre nearby</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
